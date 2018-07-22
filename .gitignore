@@ -1,0 +1,7 @@
+.idea/*
+logs/*
+target/*
+bot-master.iml
+config.yml
+config.json
+*.properties
